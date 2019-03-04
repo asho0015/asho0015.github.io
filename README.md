@@ -1,2 +1,2 @@
-# MTM6330-Week-5-Final
-W19 Week 5 class final code
+# MTM6330-Midterm-Assignmrnt
+Midterm Assignment
